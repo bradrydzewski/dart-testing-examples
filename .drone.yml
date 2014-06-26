@@ -1,0 +1,6 @@
+image: dart
+script:
+  - cd 01-unit-test
+  - pub install
+  - cd bin
+  - dart group.dart
