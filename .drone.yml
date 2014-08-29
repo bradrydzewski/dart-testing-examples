@@ -4,4 +4,3 @@ script:
   - pub install
   - cd bin
   - dart group.dart
-
