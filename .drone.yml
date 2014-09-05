@@ -4,6 +4,7 @@ script:
   - pub install
   - cd bin
   - dart group.dart
-
-
-
+notify:
+  email:
+    recipients:
+      - brad.rydzewski@gmailcom
